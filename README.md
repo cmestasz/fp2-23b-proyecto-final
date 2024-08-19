@@ -61,11 +61,6 @@ El proyecto ha sido completado y se encuentra en su versión final. Se puede eje
 - Luego, se deben ejecutar 2 clientes: [VIDEOGAME](/EJECUTABLES/)
 - Una vez ejecutados los clientes, se podra jugar al videojuego.
 
-## Modelado de la base de datos
-
-A continuación se muestra el modelo de la base de datos utilizado en el proyecto:
-![Base de Datos](/img/db.png)
-
 ## Autor
 
 - Mestas Zegarra, Christian Raul
