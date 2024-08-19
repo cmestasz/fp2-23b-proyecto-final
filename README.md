@@ -57,8 +57,8 @@ El proyecto ha sido completado y se encuentra en su versión final. Se puede eje
 
 ## Ejecución
 
-- Para ejecutar el videojuego, se debe iniciar el servidor en la carpeta: [Servidor](/EJECUTABLES/)
-- Luego, se deben ejecutar 2 clientes en la carpeta: [Cliente](/EJECUTABLES/)
+- Para ejecutar el videojuego, se debe iniciar el servidor: [SERVER](/EJECUTABLES/)
+- Luego, se deben ejecutar 2 clientes: [VIDEOGAME](/EJECUTABLES/)
 - Una vez ejecutados los clientes, se podra jugar al videojuego.
 
 ## Modelado de la base de datos
